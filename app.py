@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from modules import acb_fx_calculator
+import acb_fx_calculator
 
 st.title("ACB & FX Gain Calculator (Canada)")
 
